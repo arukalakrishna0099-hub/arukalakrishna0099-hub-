@@ -188,42 +188,6 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 </p>
 
----
-
-## 🏅 GitHub Achievements
-
-<h2 align="center">🏅 GitHub Achievements</h2>
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="assets/pull-shark.png" width="120"><br>
-<b>Pull Shark</b>
-</td>
-
-<td align="center">
-<img src="assets/yolo.png" width="120"><br>
-<b>YOLO</b>
-</td>
-
-<td align="center">
-<img src="assets/quickdraw.png" width="120"><br>
-<b>Quickdraw</b>
-</td>
-
-</tr>
-</table>
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
