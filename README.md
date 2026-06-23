@@ -5,7 +5,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+Student;Python+%7C+SQL+%7C+Tableau+Data+Visualization;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real-World+Problems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+Student;Python+%7C+SQL+%7C+Tableau+%7C+Data+Visualization;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real-World+Problems;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -17,9 +17,6 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
 
 <a href="https://github.com/arukalakrishna0099-hub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -71,8 +68,6 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 
 - Node.js
 
-- REST APIs
-
 - Machine Learning
 
 - Data Analytics
@@ -118,7 +113,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs"/>
 
 </p>
 
@@ -146,7 +141,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
 </p>
 
