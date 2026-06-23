@@ -5,7 +5,7 @@ Data Science Student • Python Developer • AI & Data Science Enthusiast • A
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real-World+Problems;Always+Learning+Something+New; Python|+ SQL | +Tableau |" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+Student;Python+%7C+SQL+%7C+Tableau+Data+Visualization;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real-World+Problems;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
