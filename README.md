@@ -188,6 +188,17 @@ Currently working on AI, Web Development, and Open Source Projects.
 
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arukalakrishna0099-hub&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 # 🐍 Contribution Snake
 
